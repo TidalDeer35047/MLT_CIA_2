@@ -4,7 +4,7 @@ This repository comprises files and code to create a website using __flask, html
 
 ## Instructions
 
-First, download the files from the github repository using the command: `git clone https://github.com/TidalDeer35047/MLT_CIA_2/` or by downloading the zip file from github directly.
+First, download the files from the github repository using the command: `git clone https://github.com/TidalDeer35047/MLT_CIA_2.git` or by downloading the zip file from github directly.
 
 Next, run the command given below to install the required dependencies:
 
